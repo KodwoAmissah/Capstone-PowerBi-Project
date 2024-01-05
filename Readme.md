@@ -50,6 +50,9 @@ The project adopted the CRISP-DM (Cross-Industry Standard Process for Data Minin
 |:--------------:|:--------------:|
 |Analysing transactional data using PowerBI|   [Power BI Dashboard](https://app.powerbi.com/links/d7cMwWPKRm?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare)|
 
+## Dashboard In Use 😃
+
+
 ## Author
 
 Kodwo Amissah-Mensah
