@@ -53,6 +53,10 @@ The project adopted the CRISP-DM (Cross-Industry Standard Process for Data Minin
 ## Dashboard In Use 😃
 
 
+https://github.com/KodwoAmissah/Capstone-PowerBi-Project/assets/137364174/22c6d0b1-f38f-4c66-a73d-db1d591f7f7b
+
+
+
 ## Author
 
 Kodwo Amissah-Mensah
